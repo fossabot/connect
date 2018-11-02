@@ -1,0 +1,14 @@
+author: Tuist
+github_url: https://github.com/tuist/connect
+copyright: 'Copyright © from 2018 Pedro Piñera Buendía. All rights reserved.'
+output: docs
+module: Connect
+clean: true
+xcodebuild_arguments:
+  - -project
+  - Connect.xcodeproj
+  - -scheme
+  - Connect-Package
+swift_version: '4.2'
+min_acl: public
+readme: README.md
