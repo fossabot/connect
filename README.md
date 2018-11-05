@@ -27,3 +27,7 @@ Please consider a regular donation through Patreon:
 Tuist is a proud supporter of the [Software Freedom Conservacy](https://sfconservancy.org/)
 
 <a href="https://sfconservancy.org/supporter/"><img src="https://sfconservancy.org/img/supporter-badge.png" width="194" height="90" alt="Become a Conservancy Supporter!" border="0"/></a>
+
+## References
+
+- [App Store Connect API](https://developer.apple.com/app-store-connect/api/)
