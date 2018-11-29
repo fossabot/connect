@@ -8,11 +8,12 @@ let package = Package(
         .library(name: "Connect", type: .dynamic, targets: ["Connect"]),
     ],
     dependencies: [
+      .package(url: "https://github.com/vapor/jwt.git", from: "3.0.0")
     ],
     targets: [
         .target(
             name: "Connect",
-            dependencies: []
+            dependencies: ["JWT"]
         ),
         .testTarget(
             name: "ConnectTests",
