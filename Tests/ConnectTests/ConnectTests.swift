@@ -1,7 +1,5 @@
-import Foundation
 @testable import Connect
+import Foundation
 import XCTest
 
-final class SimCtlTests: XCTestCase {
-
-}
+final class SimCtlTests: XCTestCase {}
