@@ -6,6 +6,7 @@ A Swift client for the Apple Developer Center and the App Store Connect API.
 [![CircleCI](https://circleci.com/gh/tuist/connect.svg?style=svg)](https://circleci.com/gh/tuist/connect)
 [![codecov](https://codecov.io/gh/tuist/simctl/branch/master/graph/badge.svg)](https://codecov.io/gh/tuist/simctl)
 [![Slack](http://slack.tuist.io/badge.svg)](http://slack.tuist.io)
+[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/tuist)
 
 ## Setup for development 👩‍💻
 
